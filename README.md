@@ -1,4 +1,4 @@
-5 Akun BotProtect + 1 Akun Bot Satpam
+25 Akun BotProtect + 1 Akun Bot Satpam
 
 ===Bot Kris===
 
@@ -17,6 +17,6 @@ Fungsinya:
 - Akun kita sendiri tidak mesti di room tersebut/jadi akun kita tidak banyak room
 - join in my team ✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰
 
-kode-kode penginstalan bot bisa langsung tanyakan di link kontak di atas
+
 
 =======================================================================
