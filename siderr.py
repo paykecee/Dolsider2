@@ -14,7 +14,7 @@ from gtts import gTTS
 from googletrans import Translator
 
 cl = LINETCR.LINE()
-cl.login(token="Eo0pPoe3I3q0Dc7uW066.DJfCP5tT35HajOsEmvX6PG.LNt7lYb+Ttx9k3+9GN++WOc0CRNU3XRb5xVHvKD8wuQ=")
+cl.login(token="EosrHUBcILQg6A10hMXb.rKdr/2WyUJYmSIu//JGqAW.pk/EwF0MJSSBzvOkpUIuiAOrztLam+3q5PANE9Im7Pg=")
 #cl.login(token='TOKEN_HERE')
 cl.loginResult()
 print "Cl-Login Success\n"
@@ -234,9 +234,8 @@ helpMessage ="""
 KAC=[cl]
 mid = cl.getProfile().mid
 Bots=[mid]
-Creator="u5baffcc81a0a0689982216a005cfc70b"
-admin= ["u5baffcc81a0a0689982216a005cfc70b","u5de46004dc0d2e5740ee96d4fc2ef892","u4fd06871f6f34b093a3972b8b5de8f3d","u720e2553e7e74e1d56c797775eda558e","u246cb4d9c8a981d4299b7ef16cad49d9","ub7b31fa9b33f809672a40a98425f59e8","u595b61f7e484cd4f5576b9ea4be6915b","uc8e1e36f976e5f4e15e64d9d1cbe1878","ub34b6b9a9ce7d7fca99460477fd3fcf3","udd917e76596789ae636e53342f37f78c","u15be3f8d6ff7f0e53e4cc8bb30c4fa18","u940947814c50be1fed29c901beed59e1","u31a54e26da314829c76fa084730dae76",mid] 
-
+Creator="u246cb4d9c8a981d4299b7ef16cad49d9"
+admin= ["u246cb4d9c8a981d4299b7ef16cad49d9",mid] 
 contact = cl.getProfile()
 backup1 = cl.getProfile()
 backup1.displayName = contact.displayName
