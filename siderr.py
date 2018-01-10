@@ -151,8 +151,7 @@ groupMessage ="""
 ║    ✨ http://line.me/ti/p/GQtqWr3e2m
 ╚═════════════════════════
 """
-Creator="u246cb4d9c8a981d4299b7ef16cad49d9"
-tjia=
+tjia="u246cb4d9c8a981d4299b7ef16cad49d9"
 #----------------------------------------------------------
 setMessage ="""
 ╔═════════════════════════
