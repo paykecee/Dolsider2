@@ -13,11 +13,11 @@ from threading import Thread
 from googletrans import Translator
 
 cl = LINETCR.LINE()
-cl.login(token="EoxneWUO9DWH3UB4w0G9.jgY02CIPGDqPM37XBk1j2q.Ff0A+WdJci4mVZJJThomiJwBe6TUhC08a4wII1VUCwQ=")
+cl.login(token="Eoq8MwRGca7qjj3nkmk5.6sLLeWSwmXZ/3nM1A6Ihvq.QTxBBwbK/UGn0K0O9rHaJM10t8RRyJcXEXuFErHFZrQ=")
 cl.loginResult()
 
 ki = LINETCR.LINE() # Assist
-ki.login(token="Eods1RwEMCzl9nkDTGOe.ZyIijJ0iuSPM1n+hcx8+JG.SsriU+sdnOEK2Ggj3Xom2AQfycdeF9jcXbg6ypCs41s=")
+ki.login(token="Eoq8MwRGca7qjj3nkmk5.6sLLeWSwmXZ/3nM1A6Ihvq.QTxBBwbK/UGn0K0O9rHaJM10t8RRyJcXEXuFErHFZrQ=")
 ki.loginResult()
 
 print "===[Login Success]==="
@@ -143,7 +143,7 @@ KAC=[ki]
 mid = cl.getProfile().mid
 Amid = ki.getProfile().mid
 Creator="u246cb4d9c8a981d4299b7ef16cad49d9"
-admin=["u246cb4d9c8a981d4299b7ef16cad49d9","uc8e1e36f976e5f4e15e64d9d1cbe1878","ub34b6b9a9ce7d7fca99460477fd3fcf3","udd917e76596789ae636e53342f37f78c","u15be3f8d6ff7f0e53e4cc8bb30c4fa18","u940947814c50be1fed29c901beed59e1","u5a8137fd38839d7ae320ad9e005ecda1","ub80075ee3659acb3cfb51dfb3903451b","u4028e8b0666a78f054007ff696d7796d","u787fd768992b484e603ff5441f9eb699","u385a4a012015cc7964778a165514ac9a","u2744c4550c7e293e97adca243805fb4b","ufd259e96c3022e3743b9898a54e0136a","ua5aaf0948ab5631f2013bb50186d5f06","u6fb1bd6b5af0f27bbdb88ecb6a1468c0","u76315ca794eddf984026849e315c7aa6","u4fd06871f6f34b093a3972b8b5de8f3d","ueb83fb1e6439cc1c58332fedd065379c",Amid]
+admin=["ue92965130b16331cfedcd9b56ba88755"Amid]
 
 contact = cl.getProfile()
 backup = cl.getProfile()
